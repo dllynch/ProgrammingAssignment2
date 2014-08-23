@@ -1,4 +1,4 @@
-### Introduction. Done 8/16/2014
+### Introduction. Done 8/21/2014: Added Comments to code
 
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
